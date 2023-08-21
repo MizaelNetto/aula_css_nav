@@ -1,4 +1,4 @@
-nav {
+nav  {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -8,6 +8,12 @@ nav {
     height: 6rem;
 
     padding: 0 2.4rem;
+
+    font-family: Verdana;
+    font-size: large;
+    border: 0cqmax;
+    float: inline-end;
+    fill-opacity: initial;
 }
 
 ul {
